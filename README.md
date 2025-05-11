@@ -1,5 +1,5 @@
 
-# ASL Detector 🧠🤟
+# ASL Detector 👁️👋
 
 A real-time American Sign Language (ASL) hand gesture detection system built using OpenCV, TensorFlow, and CVZone.
 
