@@ -1,8 +1,4 @@
-Based on your project files (`asl-detection.py` and `test.py`), here’s a clean, professional `README.md` tailored for your GitHub repo:
 
----
-
-```markdown
 # ASL Detector 🧠🤟
 
 A real-time American Sign Language (ASL) hand gesture detection system built using OpenCV, TensorFlow, and CVZone.
